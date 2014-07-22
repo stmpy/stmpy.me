@@ -1,0 +1,8 @@
+ //= require_self
+ //= require foundation_and_overrides
+
+ //= require_tree .
+
+html, body, .off-canvas-wrap, .inner-wrap, .main-section {
+	height: 100%;
+}

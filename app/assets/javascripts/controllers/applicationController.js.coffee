@@ -1,0 +1,1 @@
+StmpyMe.ApplicationController = Ember.Controller.extend()

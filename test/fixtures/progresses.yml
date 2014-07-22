@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  week_of: 2014-07-14
+  running_total: 1.5
+  weekly_amount: 1.5
+
+two:
+  week_of: 2014-07-14
+  running_total: 1.5
+  weekly_amount: 1.5
